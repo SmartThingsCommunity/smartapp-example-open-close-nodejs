@@ -1,14 +1,14 @@
 {
-  "name": "express-open-close-lighting",
+  "name": "smartapp-example-open-close-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Turn on and off a light when something opens and closes.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmartThingsCommunity/app-examples.git"
+    "url": "https://github.com/SmartThingsCommunity/smartapp-example-open-close-nodejs.git"
   },
   "keywords": [
     "SmartThings",
@@ -20,9 +20,9 @@
   "author": "SmartThings",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SmartThingsCommunity/app-examples/issues"
+    "url": "https://github.com/SmartThingsCommunity/smartapp-example-open-close-nodejs/issues"
   },
-  "homepage": "https://github.com/SmartThingsCommunity/app-examples#readme",
+  "homepage": "https://github.com/SmartThingsCommunity/smartapp-example-open-close-nodejs/#readme",
   "dependencies": {
     "@smartthings/smartapp": "^2.4.3",
     "express": "^4.17.1"
