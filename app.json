@@ -1,0 +1,12 @@
+{
+    "name": "Open/Close Example",
+    "description": "This SmartApp example turns on and off a light when something opens and closes.",
+    "repository": "https://github.com/SmartThingsCommunity/smartapp-example-open-close-nodejs",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": [
+        "smartthings",
+        "smartapp-example",
+        "node",
+        "express"
+    ]
+}
