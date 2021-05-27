@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/SmartThingsCommunity/smartapp-example-open-close-nodejs/#readme",
   "dependencies": {
-    "@smartthings/smartapp": "^2.4.3",
+    "@smartthings/smartapp": "^2.5.3",
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "^12"
+    "node": "^12 || ^14"
   }
 }

@@ -1,6 +1,6 @@
 # Open/Close Lighting Control
 
-This SmartApp turns on and off a light when something opens and closes. It shows how to subscribe to events and execute device commands.
+The following example SmartApp is the equivalent of a simple Rule (if contact sensor opens/closes, turn lights on/off) which is easily achieved via our [Rules API](https://smartthings.developer.samsung.com/docs/rules/overview.html). This simple automation is used here as a brief functional showcase of a SmartApp using the Node SDK, and is not meant to be a good candidate for a SmartApp. Be sure to check if your automation is possible with the Rules API, as it will benefit from speed, stability, and security through future local execution support.
 
 ## Start
 
