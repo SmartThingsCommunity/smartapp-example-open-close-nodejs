@@ -1,4 +1,4 @@
-const SmartApp = require('@smartthings/smartapp')
+const { SmartApp } = require('@smartthings/smartapp')
 
 /* Define the SmartApp */
 module.exports = new SmartApp()
